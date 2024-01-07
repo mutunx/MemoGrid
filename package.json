@@ -1,0 +1,17 @@
+{
+  "name": "memo-grid",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "files": ["dist"],
+  "main": "./dist/memo-grid.umd.cjs",
+  "module": "./dist/memo-grid.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+.grid-cell {
+  border: 1px solid #ccc;
+  padding: 5px;
+  margin: 2px;
+  display: inline-block; /* 或者使用 flex/grid 布局 */
+  width: 50px; /* 根据需要调整 */
+  height: 50px; /* 根据需要调整 */
+  text-align: center;
+  vertical-align: middle;
+}
